@@ -1,3 +1,5 @@
+#learning python this is my first flask sever dont be too critical please.
+#going to pair this with sqlite and react to create a cool blog app.
 from flask import Flask, render_template, request
 import os
 
